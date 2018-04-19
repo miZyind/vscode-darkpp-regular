@@ -1,0 +1,39 @@
+{
+    "name": "darkpp-regular",
+    "displayName": "Dark++ Regular",
+    "description": "Enhanched VSCode Dark + theme.",
+    "version": "0.0.1",
+    "publisher": "miZyind",
+    "engines": {
+        "vscode": "^1.22.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Dark++ Regular",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Dark++ Regular-color-theme.json"
+            }
+        ]
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/miZyind/vscode-darkpp-regular"
+    },
+    "bugs": {
+        "url": "https://github.com/miZyind/vscode-darkpp-regular/issues"
+    },
+    "homepage": "https://github.com/miZyind/vscode-darkpp-regular/blob/master/README.md",
+    "keywords": [
+        "Vscode",
+        "Theme",
+        "Dark++",
+        "Regular"
+    ],
+    "icon": "icon.png",
+    "author": "miZyind <miZyind@gmail.com>",
+    "license": "MIT"
+}
