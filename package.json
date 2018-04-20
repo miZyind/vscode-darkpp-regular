@@ -1,39 +1,61 @@
 {
-    "name": "darkpp-regular",
-    "displayName": "Dark++ Regular",
-    "description": "Enhanched VSCode Dark + theme.",
-    "version": "0.0.2",
-    "publisher": "miZyind",
-    "engines": {
-        "vscode": "^1.22.0"
+  "name": "darkpp-regular",
+  "version": "0.0.3",
+  "description": "Enhanced VSCode Dark+ theme with support for Fira Code.",
+  "author": "miZyind <miZyind@gmail.com>",
+  "license": "MIT",
+  "icon": "assets/icon.png",
+  "publisher": "miZyind",
+  "displayName": "Dark++ Regular",
+  "homepage": "https://github.com/miZyind/vscode-darkpp-regular/blob/master/README.md",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/miZyind/vscode-darkpp-regular"
+  },
+  "bugs": {
+    "url": "https://github.com/miZyind/vscode-darkpp-regular/issues"
+  },
+  "engines": {
+    "vscode": "^1.22.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "vscode",
+    "theme",
+    "dark",
+    "regular",
+    "fira-code"
+  ],
+  "galleryBanner": {
+    "color": "#282C34",
+    "theme": "dark"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Dark++ Regular",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Dark++ Regular-color-theme.json"
+      }
+    ]
+  },
+  "badges": [
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/version-short/mizyind.darkpp-regular.svg",
+      "href": "https://marketplace.visualstudio.com/items/miZyind.darkpp-regular",
+      "description": "Version"
     },
-    "categories": [
-        "Themes"
-    ],
-    "contributes": {
-        "themes": [
-            {
-                "label": "Dark++ Regular",
-                "uiTheme": "vs-dark",
-                "path": "./themes/Dark++ Regular-color-theme.json"
-            }
-        ]
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/installs-short/mizyind.darkpp-regular.svg",
+      "href": "https://marketplace.visualstudio.com/items/miZyind.darkpp-regular",
+      "description": "Installs"
     },
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/miZyind/vscode-darkpp-regular"
-    },
-    "bugs": {
-        "url": "https://github.com/miZyind/vscode-darkpp-regular/issues"
-    },
-    "homepage": "https://github.com/miZyind/vscode-darkpp-regular/blob/master/README.md",
-    "keywords": [
-        "Vscode",
-        "Theme",
-        "Dark++",
-        "Regular"
-    ],
-    "icon": "icon.png",
-    "author": "miZyind <miZyind@gmail.com>",
-    "license": "MIT"
+    {
+      "url": "https://vsmarketplacebadge.apphb.com/rating-short/mizyind.darkpp-regular.svg",
+      "href": "https://marketplace.visualstudio.com/items/miZyind.darkpp-regular",
+      "description": "Rating"
+    }
+  ]
 }
