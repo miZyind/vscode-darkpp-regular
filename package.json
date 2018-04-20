@@ -2,7 +2,7 @@
     "name": "darkpp-regular",
     "displayName": "Dark++ Regular",
     "description": "Enhanched VSCode Dark + theme.",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "publisher": "miZyind",
     "engines": {
         "vscode": "^1.22.0"
