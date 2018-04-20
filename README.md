@@ -1,7 +1,7 @@
 # Dark++ Regular Theme
 Enhanced VScode Dark+ theme.
 
-![Theme Overview](icon.png)
+![Theme Overview](overview.png)
 
 ### Fira Code
 1. Add following options in User Settings:
@@ -14,3 +14,6 @@ Enhanced VScode Dark+ theme.
     }
     ```
 2. Reload VSCode window or reopen VSCode.
+
+### Thanks to
+- @idbartosz for [vscode-darkpp-italic](https://github.com/idbartosz/vscode-darkpp-italic)
