@@ -25,9 +25,7 @@
     "vscode",
     "theme",
     "dark",
-    "regular",
-    "fira-code",
-    "hasklig"
+    "regular"
   ],
   "galleryBanner": {
     "color": "#282C34",
