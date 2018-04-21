@@ -1,7 +1,7 @@
 {
   "name": "darkpp-regular",
-  "version": "0.0.3",
-  "description": "Enhanced VSCode Dark+ theme with support for Fira Code.",
+  "version": "0.0.4",
+  "description": "Enhanced VSCode Dark+ theme with support for Fira Code & Hasklig.",
   "author": "miZyind <miZyind@gmail.com>",
   "license": "MIT",
   "icon": "assets/icon.png",
@@ -26,7 +26,8 @@
     "theme",
     "dark",
     "regular",
-    "fira-code"
+    "fira-code",
+    "hasklig"
   ],
   "galleryBanner": {
     "color": "#282C34",
