@@ -3,15 +3,15 @@
 
 Enhanced VSCode Dark+ theme with support for Fira Code.
 
-![Theme Overview](assets/overview.gif)
+![Theme Overview](https://raw.githubusercontent.com/miZyind/vscode-darkpp-regular/master/assets/overview.gif)
 
 ### Adding support for **Fira Code**
 
 #### Why use Fira Code?
 Take a look at the following picture:
-![Fira Code](https://github.com/tonsky/FiraCode/raw/master/showcases/all_ligatures.png)
+![Fira Code](https://raw.githubusercontent.com/tonsky/FiraCode/master/showcases/all_ligatures.png)
 
-####
+#### Usage
 1. Install [Fira Code](https://github.com/tonsky/FiraCode) font into your OS.
 2. Add following options in `User Settings`:
     ```
