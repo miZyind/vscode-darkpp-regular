@@ -9,7 +9,7 @@ Enhanced VSCode Dark+ theme with support for Fira Code & Hasklig.
 
 #### Why use Fira Code?
 Take a look at the following picture:
-![Fira Code](https://raw.githubusercontent.com/tonsky/FiraCode/master/showcases/all_ligatures.png)
+![Fira Code](https://raw.githubusercontent.com/tonsky/FiraCode/master/extras/ligatures.png)
 
 #### Usage
 1. Install [Fira Code](https://github.com/tonsky/FiraCode) font into your OS.
